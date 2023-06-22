@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #07cfa7;
+}
+
+/* This division will have centered text and a yellow background */
+.division {
+  background-color: #4dff00;
+  text-align: center;
+}
